@@ -9,7 +9,7 @@ A foreword by [Jeff](https://fortintam.com/en/):
 - This page [used to be](roadmap_old)
   really complicated in its previous incarnation, from 2010 to 2012.
 
-- As part of [GTG](/)'s rebirth in 2020, I am therefore
+- As part of [GTG](index)'s rebirth in 2020, I am therefore
   rewriting and simplifying this roadmap page to only include
   high-level "orientations"—general goals, not "fix bug/feature
   XYZ"—because feature-list roadmaps in community-driven open-source

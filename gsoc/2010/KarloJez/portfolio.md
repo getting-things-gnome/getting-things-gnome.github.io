@@ -7,12 +7,11 @@ data on mobile and other desktop platforms.
 
 A quick mockup of the interface:
 
-![Mockup](2010_jez_mockup1.png)
+![Mockup](mockup1.png)
 
 ## More Information
 
-A more detailed explanation is
-[here](http://live.gnome.org/gtg/soc2010_jez).
+A more detailed explanation is [here](index).
 
 ## Reports on the project
 
@@ -71,7 +70,7 @@ previously created account. For the admin interface go to
 First set up the server by following the instructions above. Perfect
 tool for trying out the API is curl.
 
-Planned API specification is here: [API spec.](2010_jez#api)
+Planned API specification is here: [API spec.](index#api)
 
 `curl "http://127.0.0.1:8000/api/1.0/username/"` returns user details:
 

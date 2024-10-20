@@ -22,27 +22,27 @@ If you would like to take a branch of my code you can use the command:
 
 ## Reports
 
-[Week 1](2012_SteveScheel_week1)
+[Week 1](week1)
 
-[Week 2](2012_SteveScheel_week2)
+[Week 2](week2)
 
-[Week 3](2012_SteveScheel_week3)
+[Week 3](week3)
 
-[Week 4](2012_SteveScheel_week4)
+[Week 4](week4)
 
-[Week 5](2012_SteveScheel_week5)
+[Week 5](week5)
 
-[Week 6](2012_SteveScheel_week6)
+[Week 6](week6)
 
-[Week 7](2012_SteveScheel_week7)
+[Week 7](week7)
 
-[Week 8](2012_SteveScheel_week8)
+[Week 8](week8)
 
-[Week 9](2012_SteveScheel_week9)
+[Week 9](week9)
 
-[Week 10](2012_SteveScheel_week10)
+[Week 10](week10)
 
-[Week 11](2012_SteveScheel_week11)
+[Week 11](week11)
 
-[Week 12](2012_SteveScheel_week12)
+[Week 12](week12)
 

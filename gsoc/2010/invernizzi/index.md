@@ -180,7 +180,7 @@ tasks) to it. Some discussion on this has already been done. I am
 proposing a two parts approach. Back-ends would be configured in GTG
 preference window.
 
-![prefs.png](2010_invernizzi_prefs.png)
+![prefs.png](prefs.png)
 
 The "storage" tab, which is currently empty, will let the user enable
 and change the configuration of a back-end just like the displayed
@@ -193,7 +193,7 @@ gnome-do and several other projects).
 To create the tag-backend relationship, I will add an entry to the short
 pop-up menu of the "tags pane". Something like this:
 
-![sync_tag.png](2010_invernizzi_sync_tag.png)
+![sync_tag.png](sync_tag.png)
 
 Clicking on that, the user will be presented to a simple checkbox list
 of the currently configured back-ends. "Ticking" one of the boxes will
@@ -218,7 +218,7 @@ because it's less intrusive than a popup but it still can't be missed.
 This will also augment the UI consistency between GTG and the rest of
 the GNOME Project
 
-![infobar.png](2010_invernizzi_infobar.png)
+![infobar.png](infobar.png)
 
 ### Backend implementations
 

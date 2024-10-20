@@ -7,7 +7,7 @@ ease of use.
 ## What we're planning to do
 
 The "next big thing" planned for GTG is a seamless integration with
-online services (see our [roadmap](../roadmap)).
+online services (see our [roadmap](../../roadmap)).
 
 Let me explain what we are trying to achieve with an example:
 
@@ -31,7 +31,7 @@ get tasks from multiple sources in a unified way.
 This feature is getting GTG users pretty excited, as we've already
 thought/had requests for support of many services. Here a short list:
 
-- Desktop [CouchDb](/CouchDb)
+- Desktop CouchDb
 - Launchpad
 - Bugzilla
 - twitter/identica (import only, tweets/dents tagged as #todo)

@@ -42,5 +42,5 @@ please tell us, we are open to suggestions. Please report us bugs.
 
 ## Projects using libLarch
 
-- [Getting Things GNOME!](/)
+- [Getting Things GNOME!](..)
 

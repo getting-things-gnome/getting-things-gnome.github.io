@@ -7,7 +7,7 @@ things I have done until now, what I have learned.
 
 I had a pretty good idea of what I wanted to do, just didn't know how to
 do it yet. My idea for what I was planning to do you can read
-[here](2009_idea).  
+[here](idea).  
 At this point I thought if I was going to work with Geoclue I would get
 my hands into it. I took some time to read about
 [Geoclue](http://www.freedesktop.org/wiki/Software/GeoClue), see how it

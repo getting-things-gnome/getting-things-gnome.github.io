@@ -1,7 +1,7 @@
 # Getting Things GNOME! Client-Server separation
 
-[This Google Summer of Code project](2010_PaulKishimoto)
-involves separating [Getting Things GNOME](..) into a *server*
+[This Google Summer of Code project](index)
+involves separating [Getting Things GNOME](../../..) into a *server*
 component handling task logic and storage, and a *client* user
 interface. This should improve support for another, web-based UI that is
 being developed, create opportunities for other, future UIs, and also
@@ -16,13 +16,13 @@ allow increased coordination with other workflow management tools.
 
 ## Documentation
 
-- [Project proposal](2010_PaulKishimoto) -- read for complete work schedule.
+- [Project proposal](index) -- read for complete work schedule.
 - [Developer correspondence](https://lists.launchpad.net/gtg-gsoc/threads.html)
-- [GTG data model](../data_model_may2010) &
+- [GTG data model](../../../data_model_may2010) &
   [comparison](http://spreadsheets.google.com/ccc?key=0AhRkDXhnjLt8dHM3MmZ0YmJnMm1UM1hySFNlaDBVc1E&hl=en_GB)
   with other software.
-- [Proposed changes](../data_model_analysis) to the data model
-- [gtg/UserStories](../user_stories) — work in progress.
+- [Proposed changes](../../../data_model_analysis) to the data model
+- [gtg/UserStories](../../../user_stories) — work in progress.
 
 ## Code
 

@@ -147,5 +147,5 @@ tags.
 A quick (really quick) mockup of the main interface, just to show what I
 have in mind. Something between desktop GTG and gmail.
 
-![Mockup](2010_jez_mockup1.png)
+![Mockup](mockup1.png)
 

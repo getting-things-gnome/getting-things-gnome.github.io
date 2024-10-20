@@ -11,8 +11,7 @@ way, the user could manage his tasks (Create, edit,...) directly from
 the shell with a friendly and unified interface.
 
 [Project page](http://google-melange.appspot.com/gsoc/project/google/gsoc2012/bsaleil/24002)
-| [Full proposal](http://google-melange.appspot.com/gsoc/proposal/review/google/gsoc2012/bsaleil/9002)
-- [pdf](http://baptiste.saleil.free.fr/gnome.pdf)
+| [Full proposal](http://google-melange.appspot.com/gsoc/proposal/review/google/gsoc2012/bsaleil/9002) - [pdf](http://baptiste.saleil.free.fr/gnome.pdf)
 | [Extension repository](https://github.com/bsaleil/gtg-gnome-shell-extension)
 | [Plugin repository](https://github.com/bsaleil/gtg-notification-plugin)
 | [Blog](http://bsaleil.org/blog/?cat=6)

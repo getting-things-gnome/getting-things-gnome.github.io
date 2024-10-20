@@ -24,23 +24,23 @@ done there.
 
 ## SoC Information
 
-- [The Idea](2009_idea): The idea!
-- [Informative links](2009_links): List of informative links that
+- [The Idea](idea): The idea!
+- [Informative links](links): List of informative links that
   are related with this project.
-- [Mockups](2009_mockups): Prototype for the new features, UI, etc.
-- [What I have learned](2009_whatihavelearned): All the things I
+- [Mockups](mockups): Prototype for the new features, UI, etc.
+- [What I have learned](whatihavelearned): All the things I
   have learned in SoC so far (midterm).
 
 ### The plugin engine
 
 - The plugin engine: behind the scenes - soon...
-- [How to make a plugin](2009_plugin_howto): Learn about the plugin
+- [How to make a plugin](plugin_howto): Learn about the plugin
   engine, how to make a plugin or check the plugin API here.
 
 ### The plugin
 
-- [Geolocalized-tasks](2009_geolocalized_tasks): See how to install, test and use the plugin.
+- [Geolocalized-tasks](geolocalized_tasks): See how to install, test and use the plugin.
 
 ### python-geoclue
 
-- [python-geoclue](2009_python_geoclue): A python module to facilitate the use of Geoclue.
+- [python-geoclue](python_geoclue): A python module to facilitate the use of Geoclue.

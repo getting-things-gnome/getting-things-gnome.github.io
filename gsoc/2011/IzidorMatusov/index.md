@@ -11,7 +11,7 @@ liblarch that way during the summer.
 
 [Full text of the proposal](http://www.google-melange.com/gsoc/proposal/review/google/gsoc2011/iyo/2004)
 
-[Test cases for liblarch demo](../liblarch/testcases)
+[Test cases for liblarch demo](../../../liblarch/testcases)
 
 ## Contact information
 
@@ -40,5 +40,5 @@ Launchpad account: [izidor](https://launchpad.net/~izidor)
 - The code is [merged](http://bazaar.launchpad.net/~gtg/gtg/trunk/revision/939)
   into GTG's trunk
 - Cleaning GTG's issue tracker - preparing for the next release
-- The very first draft of [documentation for LibLarch](../liblarch)
+- The very first draft of [documentation for LibLarch](../../../liblarch)
 

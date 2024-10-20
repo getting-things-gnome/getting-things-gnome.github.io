@@ -1,6 +1,6 @@
 # Getting Things GNOME! Summer of Code 2010 — Paul Kishimoto
 
-- (My [Portfolio](2010_PaulKishimoto_portfolio) has its own page)
+- (My [Portfolio](portfolio) has its own page)
 
 ## Revised Proposal
 
@@ -83,7 +83,7 @@ play.
 
 For the Google Summer of Code 2010, I am proposing work on the Getting
 Things GNOME! task management application ("GTG"), as suggested at
-[http://live.gnome.org/SummerOfCode2010/gtg-backends](2010_gtg-backends). By continuing my
+[http://live.gnome.org/SummerOfCode2010/gtg-backends](../backends). By continuing my
 involvement as a contributor to GTG, I will design and implement
 software integrating GTG with many web-based task tracking tools,
 allowing GTG to become an easy-to-use and natural part of GNOME users'

@@ -16,7 +16,7 @@ twitter (for adding tasks when receiving direct messages marked #todo).
 
 ## Proposal
 
-An extended explanation of what is planned is available [here](2010_invernizzi).
+An extended explanation of what is planned is available [here](index).
 
 ## State of the project at the end of GSoC
 

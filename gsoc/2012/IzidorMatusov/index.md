@@ -7,8 +7,8 @@ choice for small to medium businesses.
 
 [Project page](http://www.google-melange.com/gsoc/project/google/gsoc2012/iyo/40003)
 | [Full text of the proposal](http://www.google-melange.com/gsoc/proposal/review/google/gsoc2012/iyo/22003)
-| [Code repository](https://code.launchpad.net/~izidor/gtg/collaborative-gtg) |
-[How to setup server](https://live.gnome.org/gtg/pubsub-server)
+| [Code repository](https://code.launchpad.net/~izidor/gtg/collaborative-gtg)
+| [How to setup server](pubsub-server)
 
 ## Contact information
 
@@ -31,16 +31,16 @@ Blog: [izidor.matusov.sk](http://izidor.matusov.sk/archive.html)
 ## How does it look like?
 
 Configuration of a PubSub service:  
-![syn-service-setup.png](2012_IzidorMatusov_syn-service-setup.png)
+![syn-service-setup.png](syn-service-setup.png)
 
 Sharing is configured per tag in the tag editor:  
-![editor-with-sharing.png](2012_IzidorMatusov_editor-with-sharing.png)
+![editor-with-sharing.png](editor-with-sharing.png)
 
 Assigning tasks to teammates:  
-![assignmenu.png](012_IzidorMatusov_assignmenu.png)
+![assignmenu.png](assignmenu.png)
 
 Mockup for solving *merge conflicts* (not implemented yet):  
-![merge-conflict.png](2012_IzidorMatusov_merge-conflict.png)
+![merge-conflict.png](merge-conflict.png)
 
 ## Screencasts
 
@@ -49,7 +49,7 @@ Mockup for solving *merge conflicts* (not implemented yet):
 
 ## How to install it
 
-1. [Setup XMPP server on your computer](2012_IzidorMatusov_pubsub-server)
+1. [Setup XMPP server on your computer](pubsub-server)
 2. Get needed code
 
        bzr branch lp:~izidor/gtg/collaborative-gtg
