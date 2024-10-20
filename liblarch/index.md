@@ -20,13 +20,13 @@ probably for you.
 
 ## Documentation libLarch API 1.0
 
-- [General FAQ](https://wiki.gnome.org/Projects/liblarch/faq)
-- [Getting libLarch and using it in your project](https://wiki.gnome.org/Projects/liblarch/installation)
-- [Tree and TreeNode](https://wiki.gnome.org/Projects/liblarch/tree): Creating and modifying your data structure.
-- [ViewTree and Filters](https://wiki.gnome.org/Projects/liblarch/viewtree): viewing your data
-- [libLarch-gtk](https://wiki.gnome.org/Projects/liblarch/gtk): displaying a libLarch.ViewTree in a gtk.TreeView widget.
-- [How to develop libLarch](https://wiki.gnome.org/Projects/liblarch/dev)
-  - [Test cases for the libLarch test suite](https://wiki.gnome.org/Projects/liblarch/testcases)
+- [General FAQ](faq)
+- [Getting libLarch and using it in your project](installation)
+- [Tree and TreeNode](tree): Creating and modifying your data structure.
+- [ViewTree and Filters](viewtree): viewing your data
+- [libLarch-gtk](gtk): displaying a libLarch.ViewTree in a gtk.TreeView widget.
+- [How to develop libLarch](dev)
+  - [Test cases for the libLarch test suite](testcases)
 
 ## Who built this?
 
@@ -42,5 +42,5 @@ please tell us, we are open to suggestions. Please report us bugs.
 
 ## Projects using libLarch
 
-- [Getting Things GNOME!](index)
+- [Getting Things GNOME!](/)
 

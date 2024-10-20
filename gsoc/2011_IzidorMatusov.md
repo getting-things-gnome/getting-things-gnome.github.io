@@ -1,17 +1,17 @@
-# Rewrite liblarch library for managing directed acyclic graphs
+# Getting Things GNOME! - rewrite liblarch library for managing directed acyclic graphs
 
 ## Abstract
 
 Getting Things GNOME! is a powerful software for managing personal
 tasks. It supports many features. Its components must be very flexible
 to support all of these features. Unfortunately, GTK
-[TreeWidget](/TreeWidget) is not and liblarch was created but it needs
+TreeWidget is not and liblarch was created but it needs
 to rewrite and separate from GTK as much as possible. I want to rewrite
 liblarch that way during the summer.
 
 [Full text of the proposal](http://www.google-melange.com/gsoc/proposal/review/google/gsoc2011/iyo/2004)
 
-[Test cases for liblarch demo](/gtg/liblarch_testcases)
+[Test cases for liblarch demo](../liblarch/testcases)
 
 ## Contact information
 
@@ -33,14 +33,12 @@ Launchpad account: [izidor](https://launchpad.net/~izidor)
 - [Week #9](https://mail.gnome.org/archives/gnome-soc-list/2011-July/msg00078.html)
 - [Week #10](https://mail.gnome.org/archives/gnome-soc-list/2011-August/msg00008.html)
 - [Week #11](https://mail.gnome.org/archives/gnome-soc-list/2011-August/msg00028.html)
-
 - Week #12, Week #13, Week #14 - hunting general GTG bugs
 
 ## Results
 
-- The code is
-  [merged](http://bazaar.launchpad.net/~gtg/gtg/trunk/revision/939)
+- The code is [merged](http://bazaar.launchpad.net/~gtg/gtg/trunk/revision/939)
   into GTG's trunk
 - Cleaning GTG's issue tracker - preparing for the next release
-- The very first draft of [documentation for
-  LibLarch](http://live.gnome.org/gtg/liblarch)
+- The very first draft of [documentation for LibLarch](../liblarch)
+

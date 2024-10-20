@@ -27,7 +27,7 @@ directory
 **Author**: Benoit Chabrier  
 **Version**: 0.1.1  
 **Last revision date**: 2009-09-02   
-**Download**: http://launchpadlibrarian.net/35208877/ExportTasksToFile.tar.gz  
+**Download**: <http://launchpadlibrarian.net/35208877/ExportTasksToFile.tar.gz>  
 
 This plugin gives the possibility to export the tasks list (yet done or
 ongoing) to a text file, then the text file is opened with gedit, and
@@ -42,8 +42,8 @@ directory (GTG/plugins)
 **Author**: Alexey Aksenov  
 **Version**: 0.0.1  
 **Last revision date**: 2011-05-31   
-**Download**: http://github.com/ezh/reminder/blob/master/dist/reminder-0.0.1.tar.gz?raw=true  
-**Homepage**: http://github.com/ezh/reminder/wiki  
+**Download**: <http://github.com/ezh/reminder/blob/master/dist/reminder-0.0.1.tar.gz?raw=true>  
+**Homepage**: <http://github.com/ezh/reminder/wiki>  
 
 This plugin gives the possibility to create notification events with gtg
 tags

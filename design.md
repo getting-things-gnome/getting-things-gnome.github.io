@@ -7,13 +7,13 @@ hesitate to create dedicated subpages as well.
 ## Current work on GTG's UI
 
 - [Relevant notes regarding GTG's redesign](design_notes)
-- [Potential TodoList design](design_potential_todo_list)
+- [Potential TodoList design](potential_todo_list)
 - [Discussion thread on GTG-Contributors](https://lists.launchpad.net/gtg-contributors/msg00756.html)
 
 ## Related resources
 
 - [Old mockups and designs](design_old)
-- [Related Artwork](https://live.gnome.org/gtg/Design/RelatedArt)
+- [Related Artwork](design_related_art)
 
 ## People interested/currently involved in GTG design efforts
 
@@ -92,7 +92,7 @@ Previous mockups (by [alba.](https://wiki.gnome.org/alba.)):
 
 ![Task Editor mockup](design-alba-task.png)
 
-(Not working: http://img7.imagebanana.com/img/zb46zxpj/gtganim.gif)
+(Image went missing: http://img7.imagebanana.com/img/zb46zxpj/gtganim.gif)
 
 ## Use Cases
 

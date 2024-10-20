@@ -5,11 +5,11 @@
 The development will take place on a linux box (ubuntu) to keep things
 simple. You'll need to have installed virtualenv to start.
 
-During this process, we'll be developping the package in a virtualenv
+During this process, we'll be developping the package in a `virtualenv`
 for simplicity's sake, and because it's part of current best practices.
 
-If you want to do your development in /path/to/dir, try to get the
-latest virtualenv, and run the following command:
+If you want to do your development in `/path/to/dir`, try to get the
+latest `virtualenv`, and run the following command:
 
     $ virtualenv --system-site-packages --distribute /path/to/dir
 
@@ -21,30 +21,30 @@ And activate it:
 This will activate your virtual environment (sandboxed environment), to
 deactivate, just type deactivate in your terminal.
 
-You'll need to install pylint to your virtualenv if it's not already on
+You'll need to install `pylint` to your `virtualenv` if it's not already on
 your system, and you do intend to check and improve your code quality:
 
     $ pip install -U pylint
 
-You'll need to install sphinx to your virtualenv if you intend to work
+You'll need to install `sphinx` to your `virtualenv` if you intend to work
 on documenting the package:
 
     $ pip install -U sphinx
 
-You'll need to fetch the liblarch and gtg source code into a
-subdirectory of /path/to/dir, or /path/to/dir/src to keep things tidy
+You'll need to fetch the `liblarch` and `gtg` source code into a
+subdirectory of `/path/to/dir`, or `/path/to/dir/src` to keep things tidy
 and seperate the development code from the environment code.
 
 ## Workflow
 
-The setup.py code has been modified to use distribute's setuptools
-instead of distutils and distribute has been bundled with the code (as
+The setup.py code has been modified to use distribute's `setuptools`
+instead of `distutils` and `distribute` has been bundled with the code (as
 it is recommended in the reference documentation for distribute). It
 brings many advantages over the use of distutils, and adds quite some
 commands too.
 
 You can read more about it in the
-[http://packages.python.org/distribute/](/official%20distribute%20documentation)
+[official distribute documentation](http://packages.python.org/distribute/)
 or you could also explore the command line options:
 
     $ python setup.py --help
@@ -54,7 +54,7 @@ or you could also explore the command line options:
 The main point of this being the ability to add the source packages to
 the virtualenv's site-packages.
 
-In order to install liblarch, run the following:
+In order to install `liblarch`, run the following:
 
     $ python setup.py develop
 
@@ -82,14 +82,13 @@ related code.
 
 More to come later.
 
-Gtk.Button("\_Click here"): In pygtk, it seems that when there is an
+`Gtk.Button("_Click here")`: In pygtk, it seems that when there is an
 underline in the button label it indicates that the next character is a
-mnemonic accelerator key (Alt+C in this case). In Gtk3 you can
-accomplish the same by passing use\_underline=True as an argument, i.e.
-gtk.Button("\_Click here") becomes
-Gtk.Button("\_Press me", use\_underline=True). For more information you
-can [read more
-here](http://python-gtk-3-tutorial.readthedocs.org/en/latest/button_widgets.html#button).
+mnemonic accelerator key (`Alt+C` in this case). In Gtk3 you can
+accomplish the same by passing `use_underline=True` as an argument, i.e.
+`gtk.Button("_Click here")` becomes
+`Gtk.Button("_Press me", use_underline=True)`. For more information you
+can [read more here](http://python-gtk-3-tutorial.readthedocs.org/en/latest/button_widgets.html#button).
 
 ### Renaming script improvements
 

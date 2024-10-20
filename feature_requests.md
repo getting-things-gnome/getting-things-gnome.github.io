@@ -87,7 +87,6 @@ Look [there](https://live.gnome.org/gtg/blueprints/taskeditor-rework).
   - special support for links – I want to look at this page later
 - DnD between tags and tasks:
   - task on tag, tag on task => task gets a new tag
-
   - task on "Tasks without tags" or vice versa => tasks is removed
     all its tags
 

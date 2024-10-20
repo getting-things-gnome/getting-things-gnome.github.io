@@ -36,5 +36,5 @@ search capabilities and integration on gnome-shell
 E-mail: <joaoricardoascenso@gmail.com>  
 Blog: [joaoascenso.neei.uevora.pt](http://joaoascenso.neei.uevora.pt)  
 IRC: joaoascenso @ gimpnet  
-[GoogleTalk](/GoogleTalk): <joaoricardoascenso@gmail.com>
+GoogleTalk: <joaoricardoascenso@gmail.com>
 

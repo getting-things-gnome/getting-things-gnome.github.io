@@ -164,7 +164,7 @@ emails per year).
   - Test suite documentation
   - ...and much more!
 - Information on
-  [LibLarch](https://wiki.gnome.org/Projects/liblarch): our
+  [LibLarch](liblarch): our
   library for displaying tasks in GTK tree widgets with extreme
   flexibility
 - [Becoming a developer or maintainer](https://github.com/getting-things-gnome/gtg/blob/master/docs/contributors/becoming%20a%20developer%20or%20maintainer.md):
@@ -193,8 +193,8 @@ emails per year).
   - [Proposals & Blueprints](blueprints): old "new"
     features proposals that were under discussion among the previous
     maintainers
-   - [Feature requests](feature_requests) that are
-     typically already in the GTG bug tracker or implemented
-   - [Historical notes on the port to GTK3](gtk3_port)
+    - [Feature requests](feature_requests) that are
+       typically already in the GTG bug tracker or implemented
+  - [Historical notes on the port to GTK3](gtk3_port)
 - [List of Google Summer of Code projects related to GTG](google_summer_of_code)
 

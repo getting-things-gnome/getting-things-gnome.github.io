@@ -1,4 +1,4 @@
-# GTG - Getting Things GNOME!
+# Potential TODO List
 
 To-Do and Task Manager.
 
