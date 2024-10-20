@@ -5,7 +5,7 @@
 | 0.6 | "[Shin Kidō Senki GTG Wing: Endless Recursion][0.6]" | 144 | 2022-03-02 | 330 | 0.436 |
 | 0.5 | Rebuild of EvanGTGelion: "[You Can (Not) Improve Performance][0.5]" | 81 | 2021-04-06 | 272 | 0.298 |
 | 0.4 | Rebuild of EvanGTGelion: "[You Are (Not) Done][0.4]" | Unknown (150 to 430+) | 2020-07-07 | Too damn many. | N/A |
-| 0.3.1 "| [Back Again!][0.3.1]" | 46 | 2013-11-24 | 383 | 0.12 |
+| 0.3.1 | "[Back Again!][0.3.1]" | 46 | 2013-11-24 | 383 | 0.12 |
 | 0.3 | "[Grabthar's Hammer][0.3]" | 113 | 2012-11-06 | 267 | 0.423 |
 | 0.2.9 | "[Don't open that! It's an alien planet!][0.2.9]" | 288 | 2012-02-13 | 674 | 0.427 |
 | 0.2.5 | "[Brandon, time to take out the trash][0.2.5]" | 1 | 2011-12-01 | 2 | 0.5 |
