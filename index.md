@@ -61,7 +61,7 @@ Whether you're a [chaos warrior or a goldsmith](https://fortintam.com/blog/worke
 - **100% Free and Open-Source**, community-driven project. Works
   offline, no backdoors, no mystery code.
 
-You may also be interested in our old [manifesto](/Apps/GTG/manifesto),
+You may also be interested in our old [manifesto](manifesto),
 which established the core principles behind GTG's design and feature
 set.
 
@@ -126,18 +126,18 @@ emails per year).
 
 ### For everybody
 
-- [Downloading and installing GTG](/Apps/GTG/install)
-- [Manifesto](/Apps/GTG/manifesto): core principles behind GTG\'s
+- [Downloading and installing GTG](install)
+- [Manifesto](manifesto): core principles behind GTG\'s
   design and feature set
 - [User manual](https://fortintam.com/gtg/user_manual/) (online version)  
   How to get started and use GTG, FAQs (frequently asked questions),
   syntax, and various tips and tricks for advanced use.
   This user manual is also available offline, directly from the
   application's main menu button.
-- [Press coverage](/Apps/GTG/Press): positive things the press has
+- [Press coverage](press): positive things the press has
   said about GTG
-- [History of GTG releases](/Apps/GTG/release_names)
-- [Roadmap](/Apps/GTG/Roadmap): what are the big orientations of the
+- [History of GTG releases](release_names)
+- [Roadmap](roadmap): what are the big orientations of the
   project?
 - [Bug reporting and triaging](https://github.com/getting-things-gnome/gtg/blob/master/docs/contributors/bug%20reporting%20and%20triaging.md)
 
@@ -169,7 +169,7 @@ emails per year).
   flexibility
 - [Becoming a developer or maintainer](https://github.com/getting-things-gnome/gtg/blob/master/docs/contributors/becoming%20a%20developer%20or%20maintainer.md):
   if you want to be involved much more often, with bigger challenges
-- [Plugin Ideas](/Apps/GTG/Pluginideas): Concepts we find interesting,
+- [Plugin Ideas](plugin_ideas): Concepts we find interesting,
   but might not want to do right now.
 - The [GUADEC 2020 presentation](https://www.youtube.com/watch?v=TfGY3f3xZ_A)
   explaining how we successfully revived this project, and how we are
@@ -178,23 +178,23 @@ emails per year).
 ### For maintainers and crazy developers
 
 - [Release process](https://github.com/getting-things-gnome/gtg/blob/master/docs/contributors/release%20process%20and%20checklist.md): how to make a new GTG release?
-- [Plug-ins](/Apps/GTG/plugins): List of third party plugins.
-- [Data model](/Apps/GTG/DataModel): notes on how GTG represents tasks
+- [Plug-ins](plugins): List of third party plugins.
+- [Data model](data_model): notes on how GTG represents tasks
   & similarities to other tools. This was accurate from 2010 to
   2013-2015, but may change in 2020 and need to be re-documented.
 - Old design documents, kept only for [hysterical
   raisins](https://en.wikipedia.org/wiki/Backward_compatibility)
   as of 2020:
-  - [Design](/Apps/GTG/Design): discussions, mockups and other
+  - [Design](design): discussions, mockups and other
     brainstorming work regarding GTG's UI as a whole
-  - [User stories](/Apps/GTG/UserStories): plain-language
+  - [User stories](user_stories): plain-language
     specifications for how users (and developers!) should experience
     GTG.
-  - [Proposals & Blueprints](/Apps/GTG/blueprints): old "new"
+  - [Proposals & Blueprints](blueprints): old "new"
     features proposals that were under discussion among the previous
     maintainers
-   - [Feature requests](/Apps/GTG/feature_requests) that are
+   - [Feature requests](feature_requests) that are
      typically already in the GTG bug tracker or implemented
-   - [Historical notes on the port to GTK3](/Apps/GTG/GTK3Port)
-- [List of Google Summer of Code projects related to GTG](/Apps/GTG/Google_Summer_of_Code)
+   - [Historical notes on the port to GTK3](gtk3_port)
+- [List of Google Summer of Code projects related to GTG](google_summer_of_code)
 

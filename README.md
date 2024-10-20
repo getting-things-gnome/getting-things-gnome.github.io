@@ -1,7 +1,7 @@
 # Website for GTG
 
 Proof of concept.
-Ported over from the [now-defunct GNOME wiki](https://wiki.gnome.org/Apps/GTGa).
+Ported over from the [now-defunct GNOME wiki](https://wiki.gnome.org/Apps/GTG).
 
 ## Running locally
 
