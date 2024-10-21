@@ -19,5 +19,5 @@ bundle install
 jekyll serve -H 0.0.0.0 --incremental
 ```
 
-Open [localhost:4000/gtg](http://localhost:4000/gtg) and the website should appear.
+Open [localhost:4000/gtg](http://localhost:4000/) and the website should appear.
 
