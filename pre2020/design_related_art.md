@@ -2,21 +2,21 @@
 
 ## Wunderlist iPad
 
-![](http://i.imgur.com/ySwpS.jpg "http://i.imgur.com/ySwpS.jpg")
+![Screenshot of Wunderlist (iPad)](design_related_art_wunderlist_ipad.jpg)
 
 ## Producteev Web
 
-![](http://i.imgur.com/Wv3v7.jpg "http://i.imgur.com/Wv3v7.jpg")
+![Screenshot of Producteev (Web)](design_related_art_producteev_web.jpg)
 
 ## Producteev Mac
 
-![](http://i.imgur.com/vIcXI.jpg "http://i.imgur.com/vIcXI.jpg")
+![Screenshot of Producteev (Mac)](design_related_art_producteev_mac.jpg)
 
 ## Workflowy
 
-![](http://i.imgur.com/5qzKN.jpg "http://i.imgur.com/5qzKN.jpg")
+![Screenshot of Workflowy](design_related_art_workflowy.jpg)
 
 ## Things
 
-![](http://i.imgur.com/g9UH5.jpg "http://i.imgur.com/g9UH5.jpg")
+![Screenshot of Things](design_related_art_things.jpg)
 

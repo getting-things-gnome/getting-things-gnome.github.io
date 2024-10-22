@@ -1,4 +1,4 @@
-![gtg-64.png](https://launchpadlibrarian.net/24396827/gtg-64.png)
+![GTG icon](gtg-64.png)
 
 # Getting Things GNOME!: Revamp the backends' experience
 

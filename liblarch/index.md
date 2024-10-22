@@ -16,7 +16,7 @@ probably for you.
 
 [Download latest release tarball](https://github.com/getting-things-gnome/liblarch/releases) -
 [Github page](https://github.com/liblarch/liblarch) -
-[![https://flattr.com/thing/499738/Liblarch-a-python-library](https://api.flattr.com/button/flattr-badge-large.png "https://flattr.com/thing/499738/Liblarch-a-python-library")](https://flattr.com/thing/499738/Liblarch-a-python-library)
+[![https://flattr.com/thing/499738/Liblarch-a-python-library](flattr-badge-large.png)](https://flattr.com/thing/499738/Liblarch-a-python-library)
 
 ## Documentation libLarch API 1.0
 

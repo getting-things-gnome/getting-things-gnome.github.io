@@ -6,7 +6,7 @@ small demo at
 It contains liblarch and liblarch-gtk code, unittests and a GUI
 application for experimenting. A screenshot of the demo application:
 
-![liblarch-demo.png](/Projects/liblarch/testcases?action=AttachFile&do=get&target=liblarch-demo.png "liblarch-demo.png")
+![liblarch-demo.png](liblarch-demo.png)
 
 The following list of behavior defined by use cases is required:
 
