@@ -13,7 +13,7 @@
 
 - [GeoClue](http://www.freedesktop.org/wiki/Software/GeoClue)
 - [plazes](http://plazes.com/)
-- [Hostip](http://www.hostip.info/): IP Address Lookup and [GeoTargeting](/GeoTargeting).
+- [Hostip](http://www.hostip.info/): IP Address Lookup and GeoTargeting.
 - [OpenCellID](http://opencellid.org/) : Open source project, that
   aimes to create a complete database of CellID worlwide, with their
   locations.

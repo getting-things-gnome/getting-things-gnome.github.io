@@ -4,7 +4,7 @@
 
 - [libchamplain](http://projects.gnome.org/libchamplain/) :
   Libchamplain is a C library providing a
-  [ClutterActor](/ClutterActor) to display maps. It also provides a
+  ClutterActor to display maps. It also provides a
   Gtk+ widget to display maps in Gtk+ applications. Mono, Python and
   Perl bindings are available.
   - You can download libchamplain from:
@@ -18,7 +18,7 @@
       libraries installed.
     - Once python-clutter reaches version 1.0 you can use the
       current development version. You can get it from
-      [git://git.gnome.org/libchamplain](/git%3A//git.gnome.org/libchamplain)
+      [git://git.gnome.org/libchamplain](git://git.gnome.org/libchamplain)
       (*git clone git://git.gnome.org/libchamplain*)
     - libchamplain is now available in the ubuntu karmic package
       repository, but I haven't been able to test it yet so I
@@ -37,7 +37,7 @@ former from the [Following ppa](https://edge.launchpad.net/~francesco-marella/+a
   D-Bus messaging system. The goal of the Geoclue project is to make
   creating location-aware applications as simple as possible.
   - You can download Geoclue from:
-    - [git://anongit.freedesktop.org/git/geoclue](/git%3A//anongit.freedesktop.org/git/geoclue)
+    - [git://anongit.freedesktop.org/git/geoclue](git://anongit.freedesktop.org/git/geoclue)
       (*git clone git://anongit.freedesktop.org/git/geoclue*)
     - The latest release is available here:
       <http://folks.o-hand.com/jku/geoclue-releases>.
@@ -56,7 +56,7 @@ former from the [Following ppa](https://edge.launchpad.net/~francesco-marella/+a
     leave Geoclue in the list.
   - You can download python-geoclue from:
     - Deb package: deb package link (2024: link not working)
-    - Source: <http://live.gnome.org/gtg/soc/python_geoclue>
+    - Source: [http://live.gnome.org/gtg/soc/python_geoclue](python_geoclue)
   - To install the module from the source do the following:
     - *sudo ./setup.py install* (you need to run setup as root)
 

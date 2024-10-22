@@ -113,11 +113,11 @@ to be notified in the mail about major news & updates (roughly 1 to 5
 emails per year).
 
 ## Donating
-- [Diego](/januz) welcomes donations [through Liberapay](https://liberapay.com/Januz/)
+- Diego welcomes donations [through Liberapay](https://liberapay.com/Januz/)
   and [through GumRoad](https://diegogangl.gumroad.com/l/xKJKx). Please
   consider sponsoring his work this way so that he can allocate more
   time to maintaining GTG!
-- [Jeff](/JeffFortin) does not accept donations for
+- [Jeff](https://wiki.gnome.org/JeffFortin) does not accept donations for
   himself (though he welcomes marketing-related business)
 
 ## Documentation!

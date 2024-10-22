@@ -142,7 +142,7 @@ using launchpad or mailing-lists.
 - [Video](https://www.youtube.com/watch?v=o1SnhUV9rqw) of the work with original plugin
 - [Wiki page](https://wiki.gnome.org/gtg) for Getting Things Gnome!
 - [Get started](https://wiki.gnome.org/gtg/contributing) as a contributor
-- [All the details](https://wiki.gnome.org/gtg/pluginHowTo) on how to write a plugin
+- [All the details](2009/PaulCabido/plugin_howto) on how to write a plugin
 - [Bug Report](https://bugs.launchpad.net/gtg/+bug/932419) regarding the idea
 - [Bugtracker](https://bugs.launchpad.net/gtg/) of GTG in launchpad
 - [Browse GTG Code](https://code.launchpad.net/~gtg/gtg/trunk) in launchpad

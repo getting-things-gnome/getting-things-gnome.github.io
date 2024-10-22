@@ -1,6 +1,6 @@
 # Test cases for LibLarch
 
-For purpose of rewriting parts of [LibLarch](/gtg/liblarch), there is a
+For purpose of rewriting parts of [LibLarch](index), there is a
 small demo at
 [lp:~izidor/gtg/liblarch-demo](https://code.launchpad.net/~izidor/gtg/liblarch-demo).
 It contains liblarch and liblarch-gtk code, unittests and a GUI
@@ -125,7 +125,7 @@ time.
 liblarch_widget
 
 **Actual result:** many parent, child nodes and ended by a traceback
-*[RuntimeError](/RuntimeError): maximum recursion depth exceeded in cmp*
+*RuntimeError: maximum recursion depth exceeded in cmp*
 
     ... shorten ...
       File "/home/iyo/projekte/liblarch-demo/GTG/tools/liblarch/tree.py", line 427, in _print_from_node

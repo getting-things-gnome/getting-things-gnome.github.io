@@ -6,7 +6,7 @@ Note: as of 2020, this page is wildly outdated. Someone needs to update
 it and/or figure out what to do with this page (some thoughts
 [here](https://github.com/getting-things-gnome/gtg/issues/200)) so that
 it is maintained consistently, along with plugin API documentation
-somewhere. See also the [plugin ideas](plugin_ideas)
+somewhere. See also the [plugin ideas](pre2020/plugin_ideas)
 page which might have the same problem in the long term.
 
 ## Example: "Conquer the world" plugin

@@ -1,8 +1,8 @@
 # Polish back-ends experience
 
 Back-ends are already coded. Actually, there was much time invested in
-this feature: [Luca's GSoC](../../gsoc/2010_invernizzi_portfolio),
-[Madhu's GSoC](../../gsoc/2011_Madhu) and so on. The
+this feature: [Luca's GSoC](../../../gsoc/2010/invernizzi/portfolio),
+[Madhu's GSoC](../../../gsoc/2011/Madhu) and so on. The
 purpose of this blueprint is to remove last few rough edges, make
 programmers and users feel good about using back-end feature - give them
 positive experience.

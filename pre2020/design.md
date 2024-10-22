@@ -30,7 +30,7 @@ hesitate to create dedicated subpages as well.
 ### Whishlist and User Requirements
 
 In this section, we should list the most requested requirements and
-features. (See [https://bugs.launchpad.net/gtg](Launchpad))
+features. (See [Launchpad](https://bugs.launchpad.net/gtg))
 
 - Easy synchronization with services like Google Tasks, Remember the Milk etc.
 - Permanent Tags (shown in the sidebar although no task is assigned to it)
@@ -39,7 +39,7 @@ features. (See [https://bugs.launchpad.net/gtg](Launchpad))
 
 ### GTGs Goals
 
-See [manifesto](manifesto)
+See [manifesto](../manifesto)
 
 1. *Relieve stress*
 

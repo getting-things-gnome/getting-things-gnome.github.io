@@ -23,9 +23,9 @@ search capabilities and integration on gnome-shell
 
 ## Documentation
 
-- [Search implementation](/gtg/search)
-- [Views implementation](/gtg/views)
-- [New quickadd functionality](/quickadd%20gsoc2011)
+- [Search implementation](../../pre2020/search)
+- [Views implementation](../../pre2020/views)
+- [New quickadd functionality](https://wiki.gnome.org/quickadd%20gsoc2011)
 
 ## code
 
