@@ -18,11 +18,11 @@ allow increased coordination with other workflow management tools.
 
 - [Project proposal](index) -- read for complete work schedule.
 - [Developer correspondence](https://lists.launchpad.net/gtg-gsoc/threads.html)
-- [GTG data model](../../../data_model_may2010) &
+- [GTG data model](../../../pre2020/data_model_may2010) &
   [comparison](http://spreadsheets.google.com/ccc?key=0AhRkDXhnjLt8dHM3MmZ0YmJnMm1UM1hySFNlaDBVc1E&hl=en_GB)
   with other software.
-- [Proposed changes](../../../data_model_analysis) to the data model
-- [gtg/UserStories](../../../user_stories) — work in progress.
+- [Proposed changes](../../../pre2020/data_model_analysis) to the data model
+- [gtg/UserStories](../../../pre2020/user_stories) — work in progress.
 
 ## Code
 

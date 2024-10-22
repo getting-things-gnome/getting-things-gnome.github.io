@@ -124,10 +124,9 @@ mockups ;-).
   3.x based on GTG, this thus might be a really interesting resource:
   <https://live.gnome.org/Design/Apps/Potential/TodoList>
 - GTG gnome wiki: <https://live.gnome.org/gtg/>
-  - In particular, looking at the blueprints
-    ([https://live.gnome.org/gtg/blueprints](../../blueprints)), feature requests
-    ([https://live.gnome.org/gtg/feature_requests](../../feature_requests)) and the roadmap
-    ([https://live.gnome.org/gtg/Roadmap](../../roadmap)) is a must!
+  - In particular, looking at the [blueprints](../../pre2020/blueprints),
+    [feature requests](../../pre2020/feature_requests) and the
+    [roadmap](../../roadmap) is a must!
 - Read the discussion on this bug:
   <https://bugs.launchpad.net/gtg/+bug/885320> and have a look the
   great proposals/mockups that rAX and vovkkk have made (look at the

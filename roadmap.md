@@ -6,7 +6,7 @@
 
 A foreword by [Jeff](https://fortintam.com/en/):
 
-- This page [used to be](roadmap_old)
+- This page [used to be](pre2020/roadmap_old)
   really complicated in its previous incarnation, from 2010 to 2012.
 
 - As part of [GTG](index)'s rebirth in 2020, I am therefore
