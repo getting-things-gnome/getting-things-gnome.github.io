@@ -22,9 +22,9 @@ from liblarch import Tree
 my_tree = Tree()
 ```
 
-Liblarch manipulates "[TreeNodes](/TreeNodes)". You can define your own
-objects but they have to extend the liblarch.tree.[TreeNode](/TreeNode)
-class. [TreeNode](/TreeNode) are initialized with a Node ID parameter
+Liblarch manipulates "TreeNodes". You can define your own
+objects but they have to extend the liblarch.tree.TreeNode
+class. TreeNode are initialized with a Node ID parameter
 (nid). The nid is a string that should be unique. No nodes can have the
 same nid in a given tree.
 

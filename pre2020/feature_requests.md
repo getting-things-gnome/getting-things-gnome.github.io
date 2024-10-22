@@ -51,7 +51,7 @@ How to choose which backends are officially supported? Which not?
 
 ## Text editor rework
 
-Look [there](pre2020/blueprints/taskeditor_rework).
+Look [there](blueprints/taskeditor_rework).
 
 ## UI improvements
 

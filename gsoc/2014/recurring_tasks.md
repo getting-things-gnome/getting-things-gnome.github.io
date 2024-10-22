@@ -78,8 +78,8 @@ using launchpad or mailing-lists.
 ## Some useful links
 
 - [Google Summer of Code](http://google-melange.com/) page
-- [Wiki page](https://wiki.gnome.org/Apps/gtg) for Getting Things Gnome!
-- [Bug #734622](/%28https%3A//bugs.launchpad.net/gtg/%2Bbug/734622),
+- [Wiki page](https://wiki.gnome.org/Apps/GTG) for Getting Things Gnome!
+- [Bug #734622](https://bugs.launchpad.net/gtg/+bug/734622),
   [Bug #692555](https://bugs.launchpad.net/gtg/+bug/692555),
   [Bug #344432](https://bugs.launchpad.net/gtg/+bug/344432) are good
   resources on the discussions held on this topic.

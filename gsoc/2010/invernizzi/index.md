@@ -46,7 +46,7 @@ due time.
 
 A quite complex configuration is showed in the next figure:
 
-![tags.png](2010_invernizzi_tags.png)
+![tags.png](tags.png)
 
 ### Project context
 

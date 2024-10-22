@@ -39,20 +39,20 @@ features.
 - improve translations quality/completeness -- find help within GNOME
 - split GTG into a daemon and client
 - [redesign to match GNOME 3](design)
-- [Reworked synchronization services](pre2020/blueprints/backends) --
+- [Reworked synchronization services](blueprints/backends) --
   easy to write Hello World synchronization services, extract
   synchronization code into GTG toolkit, read only tasks
-- [Filtering by mutliple tags](https://wiki.gnome.org/Apps/GTG/Filtering%20by%20multiple%20tags)
-- [task editor rework](pre2020/blueprints/taskeditor-rework)
-- [desktop integration](pre2020/blueprints/desktopintegration)
+- [Filtering by mutliple tags](blueprints/filtering_by_multiple_tags)
+- [task editor rework](blueprints/taskeditor_rework)
+- [desktop integration](blueprints/desktop_integration)
 - implementing many synchronization services (there are many requests
   in the bug tracker)
-- [recurring tasks](pre2020/blueprints/repeated_tasks)
+- [recurring tasks](blueprints/repeated_tasks)
 - priority by drag'n'drop of tasks, better sorting
 
 ## Far future
 
-- [statistics](pre2020/blueprints/statistics)
+- [statistics](blueprints/statistics)
 - GTG web client
 - Android app
 - \<insert your wishes here>

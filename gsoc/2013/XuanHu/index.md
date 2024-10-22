@@ -26,7 +26,7 @@
 - By following the steps below, you can set up the debug environment.
 - Feel free to play with it and contact me if you find any bugs.
 - For more information about coverage testing, you can refer to
-  [gtg/coverage_testing](coverage_testing).
+  [gtg/coverage_testing](https://wiki.gnome.org/gtg/coverage_testing).
 - There is also a shared evernote with test actions and coverage
   report listed.
   [Link](https://www.evernote.com/shard/s43/sh/8e6e0ce8-227e-4c7a-b1e4-1e4e13e2728a/3b9d652d1303c5418292963b9483155c).
