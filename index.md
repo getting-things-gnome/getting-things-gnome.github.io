@@ -169,7 +169,7 @@ emails per year).
   flexibility
 - [Becoming a developer or maintainer](https://github.com/getting-things-gnome/gtg/blob/master/docs/contributors/becoming%20a%20developer%20or%20maintainer.md):
   if you want to be involved much more often, with bigger challenges
-- [Plugin Ideas](plugin_ideas): Concepts we find interesting,
+- [Plugin Ideas](pre2020/plugin_ideas): Concepts we find interesting,
   but might not want to do right now.
 - The [GUADEC 2020 presentation](https://www.youtube.com/watch?v=TfGY3f3xZ_A)
   explaining how we successfully revived this project, and how we are
@@ -185,16 +185,16 @@ emails per year).
 - Old design documents, kept only for [hysterical
   raisins](https://en.wikipedia.org/wiki/Backward_compatibility)
   as of 2020:
-  - [Design](design): discussions, mockups and other
+  - [Design](pre2020/design): discussions, mockups and other
     brainstorming work regarding GTG's UI as a whole
-  - [User stories](user_stories): plain-language
+  - [User stories](pre2020/user_stories): plain-language
     specifications for how users (and developers!) should experience
     GTG.
-  - [Proposals & Blueprints](blueprints): old "new"
+  - [Proposals & Blueprints](pre2020/blueprints): old "new"
     features proposals that were under discussion among the previous
     maintainers
-    - [Feature requests](feature_requests) that are
+    - [Feature requests](pre2020/feature_requests) that are
        typically already in the GTG bug tracker or implemented
-  - [Historical notes on the port to GTK3](gtk3_port)
+  - [Historical notes on the port to GTK3](pre2020/gtk3_port)
 - [List of Google Summer of Code projects related to GTG](google_summer_of_code)
 
