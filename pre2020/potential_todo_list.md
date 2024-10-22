@@ -24,19 +24,19 @@ Design: alba.
 
 ### Wunderlist
 
-![](http://i.imgur.com/A6fKm.jpg "http://i.imgur.com/A6fKm.jpg")
+![Screenshot of Wunderlist](potential_todo_list_wunderlist.jpg)
 
 ### Things
 
-![](http://i.imgur.com/Enbti.png "http://i.imgur.com/Enbti.png")
+![Screenshot of Things](potential_todo_list_things.png)
 
 ### Remember the Milk
 
-![](http://i.imgur.com/tfmoP.png "http://i.imgur.com/tfmoP.png")
+![Screenshot of Remember the Milk](potential_todo_list_remember_the_milk.png)
 
 ### Nirvana
 
-![](http://i.imgur.com/DUpyl.png "http://i.imgur.com/DUpyl.png")
+![Screenshot of Nirvana](potential_todo_list_nirvana.png)
 
 ## Tentative Design
 

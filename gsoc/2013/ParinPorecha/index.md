@@ -5,7 +5,18 @@ The application is currently deployed [here](http://gtgonline-parinporecha.rhclo
 Or, you can view [these](http://imgur.com/a/NOKse#0) screenshots
 showcasing the different features of GTGOnline!
 
-[Creating](http://i.imgur.com/dXIJasK.png) new tasks is made to work
+> ![Screenshot of social page](showcase_1.png)
+> Add users to your lists, share tasks with them and collaborate
+>
+> ![Screenshot of shared tasks](showcase_2.png)
+> The thumbnail of the user is displayed alongside task name to easily know who has shared the task with us
+>
+> ![Screenshot of task details](showcase_3.png)
+> All the changes made to a task (Status, date, users add/remove etc.) are recorded and logged. You can view the log to know the full history of the task
+>
+> ![Screenshot of task editor](showcase_4.png)
+
+[Creating](creating.png) new tasks is made to work
 like workflowy. You can create full task trees in GTGOnline!. Two
 keywords - 'start:' and 'due:' are used to specify the start and due
 dates. The rest controls are intuitive and displayed above the Task
@@ -18,13 +29,13 @@ Choosing users to share task with is very flexible. You can either share
 it with a group, and some users from other groups as well.
 
 When a task is shared, a log of all the changes made will be created.
-You can [view](http://i.imgur.com/lwivZIS.png) all the modifications
+You can [view](view.png) all the modifications
 made to that task till date (eg:- status change, edit etc.)
 
 [Here](https://code.launchpad.net/~parinporecha/gtg/backend_gtgonline)'s
 the link to the Launchpad branch containing the code for the backend
 which synchronizes tasks between GTG and GTGOnline!
-([screenshot](http://i.imgur.com/vknlvGQ.png)) The work is being
+([screenshot](screenshot.png)) The work is being
 reviewed by GTG developers
 
 Link to github repo of the project - <https://github.com/parinporecha/GTGOnline>

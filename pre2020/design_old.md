@@ -15,33 +15,33 @@ title: "Design (old)"
 
 #### Layout
 
-![](http://i.imgur.com/w6QIZ.png "http://i.imgur.com/w6QIZ.png")
+![Screenshot of main window](design_2012_03_layout.png)
 
 #### App-Menu
 
-![](http://i.imgur.com/D8zZn.png "http://i.imgur.com/D8zZn.png")
+![Screenshot of main window with app menu open](design_2012_03_app_menu.png)
 
 #### Tag Options
 
-![](http://i.imgur.com/U6LFg.png "http://i.imgur.com/U6LFg.png")
+![Screenshot of tag editor](design_2012_03_tag_options.png)
 
 #### Primary Bar Filters
 
 - Only time-releated (like Wunderlist)
 
-![](http://i.imgur.com/gaEGA.png "http://i.imgur.com/gaEGA.png")
+![Screenshot of bar with Today, Tomorrow, Next 7 Days, Later, Without Date](design_2012_03_bar_time.png)
 
 - time- and mode-related filters mixed
 
-![](http://i.imgur.com/wufib.png "http://i.imgur.com/wufib.png")
+![Screenshot of bar with Work View, Today, Scheduled, Undated, Done](design_2012_03_bar_mode.png)
 
 - Again mixed ('Today' would behave like the current 'Work View')
 
-![](http://i.imgur.com/svM2a.png "http://i.imgur.com/svM2a.png")
+![Screenshot of bar with Today, Next Week, Scheduled, Without Date, Done](design_2012_03_bar_mixed.png)
 
 #### Tasks
 
-![](http://i.imgur.com/3cQbH.png "http://i.imgur.com/3cQbH.png")
+![Screenshot of main window with a task](design_2012_03_tasks.png)
 
 ### 18. March 2012
 
@@ -52,7 +52,7 @@ title: "Design (old)"
 - Redesigned the Tasks
 - Added some visual sharpness
 
-![](http://i.imgur.com/X3zB5.png "http://i.imgur.com/X3zB5.png")
+![Screenshot of main window with subtask](design_2012_03_main.png)
 
 ### 8. April 2012
 
@@ -66,8 +66,8 @@ Desktop. It should show you your next Tasks in the calendar applet and
 it should be able to make notifications 30 to 60 seconds after the
 computer start.
 
-![](http://i.imgur.com/dKKlQ.png "http://i.imgur.com/dKKlQ.png")
-![](http://i.imgur.com/lwhb7.png "http://i.imgur.com/lwhb7.png")
+![Wireframe of a big notification at the top of the screen](design_2012_04_notification_top_wireframe.png)
+![Wireframe of a small notification at the bottom of the screen](design_2012_04_notification_bottom_wireframe.png)
 
 The first wireframe shows the new start screen (Summary), which aims to
 achive manifesto goal #2 "Focus on what's relevant" and goal #4 "Avoid
@@ -84,7 +84,7 @@ The Start Screen concept isn't finished yet, because i've read a nice
 book about game machanics and want to try to get some of these into GTG,
 to make it fun to complete tasks.
 
-![](http://i.imgur.com/Xqv3a.png "http://i.imgur.com/Xqv3a.png")
+![Wireframe of main window a progress bar for completed tasks](design_2012_04_main_progress_bar_wireframe.png)
 
 The second wireframe shows normal state, with primary toolbar (top)
 tag-sidebar (left) and plugin-toolbar (bottom).
@@ -101,7 +101,7 @@ land in the Inbox for further editing.
 *Scheduled:* This view shows you all your tasks in a chronological
 order. *Done:* This view shows all tasks, marked as done
 
-![](http://i.imgur.com/uYrkW.png "http://i.imgur.com/uYrkW.png")
+![Wireframe of main window](design_2012_04_main_wireframe.png)
 
 Since i wanted to focus on synchronization-abilities, i moved the
 sync-button to the right side of the primary toolbar. If you klick on
@@ -110,14 +110,14 @@ where you can enter your account details of external services. It should
 maye show some text, which explains all the sync-stuff and tell you,
 that you can add more accounts later in the options
 
-![](http://i.imgur.com/VefvB.png "http://i.imgur.com/VefvB.png")
+![Wireframe of account window](design_2012_04_account_wireframe.png)
 
 Edit View: The idea is, that GTG would handle tasks, like other Gnome 3
 apps handle files. If you click/tap on a task, it will open the
 edit-view, where you can edit your tasks, set another title, tags and
 dates.The
 
-![](http://i.imgur.com/9zrEL.png "http://i.imgur.com/9zrEL.png")
+![Wireframe of task editor window](design_2012_04_task_wireframe.png)
 
 The Task Design:
 
@@ -136,8 +136,8 @@ I know, there is no extra place for a starting date, but if there is a
 starting date assinged and the task hasn't started yet, we could just
 display "Starts at:" instead of the due date.
 
-![](http://i.imgur.com/HnZAq.png "http://i.imgur.com/HnZAq.png")
+![Wireframe of task list](design_2012_04_list_wireframe.png)
 
 ### 15. April 2012
 
-![](http://i.imgur.com/gJqXz.png "http://i.imgur.com/gJqXz.png")
+![Screenshot of main window](design_2012_04_main.png)

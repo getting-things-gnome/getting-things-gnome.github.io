@@ -2,7 +2,7 @@
 
 ## What is Getting Things Gnome! ?
 
-![gtg-0.3-browser-tasks-bgcolor-desc-1024x640.png](http://gtgnome.net/wp-content/uploads/2013/01/gtg-0.3-browser-tasks-bgcolor-desc-1024x640.png)
+![gtg-0.3-browser-tasks-bgcolor-desc-1024x640.png](2014/gtg-0.3-browser-tasks-bgcolor-desc-1024x640.png)
 
 Getting Things Gnome! (GTG) is an organizer for the GNOME desktop
 environment, focusing on usability and ease of use. GTG manages your
